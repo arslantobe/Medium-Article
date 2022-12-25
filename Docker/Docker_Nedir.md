@@ -13,6 +13,7 @@ Sanallaştırma öncesi mimari tüm kaynakları tek bir işletim sistemi ile kul
 Daha sonra hayatımıza Sanallaştırma (hypervisor) teknolojiisi girdi.
 
 İki uygulamanın izole çalışması adına bir bilgisayara “sanallaştırma yazılımını”, ara katman olarak kurup ve ardından da bu sanallaştırma yazılımı sayesinde iki tane sanal makine oluşturuyor ve Linux işletim sistemini bunların üzerine kuruyor daha sonra uygulamalarımızı bu iki sanal makine üzerinde kurarak birbirinden izole bir şekilde çalıştırabiliyorduk. Bu çözüm zamanla yaygın bir kullanım haline gelse de yine de en ideal çözüm değildi.
+
 <img align="center" alt="GIF" src="./Docker3"  />
 
 Sanallaştırma mimarisi(Hypervisor)

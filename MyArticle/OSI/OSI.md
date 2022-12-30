@@ -1,4 +1,6 @@
-﻿**OSI REFERANS MODELİ**
+﻿ - [Ana Sayfaya Dön](/MyArticles)
+ 
+ **OSI REFERANS MODELİ**
 
 Farklı marka donanım aygıtları ve farklı işletim sistemleri olan iki bilgisayar arasında iletişim nasıl gerçekleşir?
 

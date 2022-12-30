@@ -1,4 +1,4 @@
-﻿ [Ana Sayfaya Dön](MyArticles)
+﻿ [Ana Sayfaya Dön](https://github.com/tugbakorkut16/MyArticles)
  
  **OSI REFERANS MODELİ**
 

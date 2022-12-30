@@ -1,2 +1,2 @@
 # Medium-Article
-[The Big Picture: OSI](OSI/OSI.md)
+[1 - OSI](OSI/OSI.md)

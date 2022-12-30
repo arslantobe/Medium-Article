@@ -1,4 +1,4 @@
-﻿ - [Ana Sayfaya Dön](/MyArticles)
+﻿ [Ana Sayfaya Dön](MyArticles)
  
  **OSI REFERANS MODELİ**
 

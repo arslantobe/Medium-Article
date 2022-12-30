@@ -74,4 +74,4 @@ sistemleri üzerinde çalışmak zorundadır. Yani ne kadar sanal makine çalı�
 
 Bunun aksine, Konteyner ile ne kadar uygulama çalıştırırsanız çalıştırın. Bir sunucuda tek bir işletim sistemi çalıştırır ve her konteyner işletim sistemi çekirdeğini diğer konteynerlar ile paylaşır. İşletim sisteminin paylaşılan kısımları salt okunur dur, her container veri yazmak için kendi erişilen alanlarına sahiptir. Bu, konteynerların çok daha hafif olduğu ve sanal makinelere göre çok daha az kaynak kullandığı anlamına gelir.
                                                                                                                              
-                                                                  :house:[Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
+                                                                                          :house:[Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)

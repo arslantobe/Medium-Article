@@ -147,3 +147,4 @@ Fiziksel katmanda çalışan cihazlar şunlardır:
 ![](Aspose.Words.26b512c6-970a-49ba-ae38-2f6969888cf9.004.jpeg)
 
 ![](Aspose.Words.26b512c6-970a-49ba-ae38-2f6969888cf9.005.jpeg)
+                                                                                           m            :house:[Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)

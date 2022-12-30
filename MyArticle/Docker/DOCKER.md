@@ -6,9 +6,7 @@ Merhaba arkadaşlar, sizlere Docker ile ilgili öğrendiklerimi özet olarak pay
 
 ![](Aspose.Words.6870c290-4632-42ae-bf14-6c7518f1e09d.001.jpeg)
 
-D
-
-ocker dan önce geleneksel yöntemlerle bir uygulamayı çalıştırmak istediğimizde öncelikle bir bilgisayar üstüne işletim sisteminizi kurup; daha sonra da bunun üstüne tüm gerekli kütüphaneleri ekleyip ve ardından da bunun üstüne uygulamamızı kurmamız yeterliydi.
+**D**ocker'dan önce geleneksel yöntemlerle bir uygulamayı çalıştırmak istediğimizde öncelikle bir bilgisayar üstüne işletim sisteminizi kurup; daha sonra da bunun üstüne tüm gerekli kütüphaneleri ekleyip ve ardından da bunun üstüne uygulamamızı kurmamız yeterliydi.
 
 ![](Aspose.Words.6870c290-4632-42ae-bf14-6c7518f1e09d.002.png)
 
@@ -76,4 +74,4 @@ sistemleri üzerinde çalışmak zorundadır. Yani ne kadar sanal makine çalı�
 
 Bunun aksine, Konteyner ile ne kadar uygulama çalıştırırsanız çalıştırın. Bir sunucuda tek bir işletim sistemi çalıştırır ve her konteyner işletim sistemi çekirdeğini diğer konteynerlar ile paylaşır. İşletim sisteminin paylaşılan kısımları salt okunur dur, her container veri yazmak için kendi erişilen alanlarına sahiptir. Bu, konteynerların çok daha hafif olduğu ve sanal makinelere göre çok daha az kaynak kullandığı anlamına gelir.
                                                                                                                              
-                                                                                                       :house:[Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
+                                                                  :house:[Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)

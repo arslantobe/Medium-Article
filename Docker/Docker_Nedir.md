@@ -4,6 +4,7 @@ Merhaba arkadaşlar, sizlere Docker ile ilgili öğrendiklerimi özet olarak pay
 
  <img align="center" alt="GIF" src="./Docker1"  />
 Docker dan önce geleneksel yöntemlerle bir uygulamayı çalıştırmak istediğimizde öncelikle bir bilgisayar üstüne işletim sisteminizi kurup; daha sonra da bunun üstüne tüm gerekli kütüphaneleri ekleyip ve ardından da bunun üstüne uygulamamızı kurmamız yeterliydi.
+
 <img align="center" alt="GIF" src="./Docker2"  />
 
 Sanallaştırma öncesi mimari tüm kaynakları tek bir işletim sistemi ile kullanabildiğimiz , ihtiyaç duyduğumuz uygulamaları bu sunucu üzerine yüklediğimiz mimaridir. Bu mimaride aynı uygulamanın farklı sürümlerini aynı sistem üzerinde çalıştırmak mümkün değildi.
@@ -22,17 +23,21 @@ Sanallaştırma mimarisi(Hypervisor)
 Yani bir fiziksel makinenin üstüne kurduğunuz bir tane sanal makinenin içine kurduğunuz işletim sistemi, sırf kendi temel işlerini yapabilmek için kaynak harcıyor ve bu da oluşturacağımız her sanal makine için ayrı kaynak kullanmamız ve bu oluşturduğumuz sanal makinelerin yönetilmesi anlamına geliyordu.
 
 Her sanal makinenin içinde kendi işletim sistemi vardır. Bu yüzden temel kaynakların daha fazla kullanımına neden olur. Sanal makinelerin işletim sistemini başlatması gerektiğinden, açılması da dakikalar sürer. Bu da aynı zamanda zaman kaybına da neden olur.
+
 <img align="center" alt="GIF" src="./Docker4"  />
 
 2010 lara doğru hayatımıza giren Konteyner teknolojisi ile bunlara çözüm olarak uygulamaları aynı sistem üstünde, birbirlerinden izole şekilde çalıştırabiliyoruz.
 
 Konteyner Nedir?
+
 <img align="center" alt="GIF" src="./Docker5"  />
 
 Konteyner, bir uygulamanın ihtiyaç duyulan tüm bağımlılıklar, kütüphaneler ve diğer tüm nesnelerle birlikte paketlenerek standart hale getirilmesidir.
+
 <img align="center" alt="GIF" src="./Docker6"  />
 
 Oluşturulan bu Konteynerlar, bir bilgisayar ortamından diğerine tüm bağımlılıklarla birlikte güvenli bir şekilde taşınabilmektedir.
+
 <img align="center" alt="GIF" src="./Docker7"  />
 
 Konteynerlar, izole edilmiş kendi ortamları ve süreçleri olan imajların çalışan örnekleridir.

@@ -1,6 +1,6 @@
 ﻿:house:[Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
  
- **DOCKER**
+ ***DOCKER***
 
 Merhaba arkadaşlar, sizlere Docker ile ilgili öğrendiklerimi özet olarak paylaşmaya çalışacağım. Bu yazımda, “Konteyner nedir? Neden İhtiyaç duyarız?, Docker nedir?, Ne işe yarar? ” gibi sorulara cevap vermeye çalışacağım.
 
@@ -75,4 +75,5 @@ Sanallaştırma teknolojisi ile , mevcut fiziksel kaynakların sanal sunucu sist
 sistemleri üzerinde çalışmak zorundadır. Yani ne kadar sanal makine çalıştırırsanız, fiziksel bir sunucunun üzerinde bir hipervizör ve çalıştırdığınız sanal makine kadar ayrı işletim sistemi bulunur.
 
 Bunun aksine, Konteyner ile ne kadar uygulama çalıştırırsanız çalıştırın. Bir sunucuda tek bir işletim sistemi çalıştırır ve her konteyner işletim sistemi çekirdeğini diğer konteynerlar ile paylaşır. İşletim sisteminin paylaşılan kısımları salt okunur dur, her container veri yazmak için kendi erişilen alanlarına sahiptir. Bu, konteynerların çok daha hafif olduğu ve sanal makinelere göre çok daha az kaynak kullandığı anlamına gelir.
-                                                                                                                                :house:[Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
+                                                                                                                             
+                                                                                                       :house:[Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)

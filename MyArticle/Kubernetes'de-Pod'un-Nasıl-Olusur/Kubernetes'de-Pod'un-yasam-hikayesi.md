@@ -1,6 +1,6 @@
 ﻿[:house:Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
 
-#Kubernetes de Pod Objesinin Yaşam Hikayesi
+#***Kubernetes de Pod Objesinin Yaşam Hikayesi***
 
 **M**erhaba arkadaşlar bu yazımda sizlere kubernetes in en temel objesi olan Pod ve yaşam döngüsünden ve bu arada Clusterda neler olduğundan bahsedeceğim.
 

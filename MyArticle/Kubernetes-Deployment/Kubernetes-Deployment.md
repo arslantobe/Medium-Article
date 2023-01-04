@@ -1,4 +1,6 @@
-﻿**Kubernetes Deployment**
+﻿[:house:Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
+ 
+ **Kubernetes Deployment**
 
 ![](Aspose.Words.ec8ebf83-59db-4606-8a3c-832e9841040c.001.jpeg)
 
@@ -114,7 +116,8 @@ komutu ile nginx 1.14.2 olan image versionunu 1.16.1 olan versionu ile değişti
 deployment.apps/nginx-deployment image updated
 
 Deployment güncellendiğinde, default olarak Podların %75 inin çalışmasını sağlar ve sadece %25 ini günceli ile değiştirmek üzere kapatır. Yani 4 podumuz varsa önce birini kapatıp yerine güncellediğimiz imaj a sahip bir pod çalıştırır. Hepsini güncelleyene kadar bu şekilde devam eder. Böylece uygulamamız güncellenirken kesintiye uğramaz.
-
+ 
+[:house:Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
 Oluşturduğumuz Deployment’ı
 
 kubectl delete deployment

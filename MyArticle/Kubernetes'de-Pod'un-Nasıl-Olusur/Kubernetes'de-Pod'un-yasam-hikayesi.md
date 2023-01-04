@@ -1,5 +1,6 @@
-﻿
-**Kubernetes de Pod Objesinin Yaşam Hikayesi**
+﻿[:house:Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
+
+#***Kubernetes de Pod Objesinin Yaşam Hikayesi***
 
 **M**erhaba arkadaşlar bu yazımda sizlere kubernetes in en temel objesi olan Pod ve yaşam döngüsünden ve bu arada Clusterda neler olduğundan bahsedeceğim.
 
@@ -92,3 +93,5 @@ pod yaşam döngüsü
 **RestartPolicy nin** Always olarak set edilirse ; Containerlar hata vererek de kapansa normal de kapansa yeniden başlatılacağından **Running** state geçer**. A**ma belirli aralıklarla yeniden başlatma
 
 işlemi devam ediyorsa bu sefer **CrashLoopBackOff** a geçer. Müdahale edip sorunu ortadan kaldırıp ,10 dk sorunsuz çalışırsa **kubelet** bu Pod u **CrashLoopBackOff** dan **Running e** döndürür.🙌🙌🙂
+
+[:house:Ana Sayfa](https://github.com/tugbakorkut16/MyArticles)
